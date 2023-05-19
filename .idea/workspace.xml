@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="893e5e46-7ea9-40b6-8238-09d65625be6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zda-sem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zda-sem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Tesla Deaths" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/stocks-prepared-to-analyze.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stocks-prepared-to-analyze.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets-prepared-to-analyze.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets-prepared-to-analyze.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets-stocks-merged.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweets-v1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets-v1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/tweetsv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/final-neco-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/.ipynb_checkpoints/final-neco-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/final_analyze-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stock_analyze-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stock_analyze.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stock_process-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-analyze-final-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-neco-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-neco-final-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-neco-final-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets-analyze-final-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets-neco-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets-neco-final-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets_analyze-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets_analyze.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/data-explore-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/data-explore-final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/final-neco.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/final_analyze.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/final_analyze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stocks-analyze-final.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stocks-analyze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/stocks-analyze.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stocks-neco-final.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stocks-neco.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/stocks_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/stocks_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/tweets-analyze-final.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/tweets-analyze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/tweets-analyze.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/tweets-neco-final.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/tweets-neco.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/tweets_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/tweets_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q0LkVJ2F9S2xmrHxCV6IVlZTfF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893e5e46-7ea9-40b6-8238-09d65625be6c" name="Changes" comment="" />
+      <created>1684485700212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684485700212</updated>
+      <workItem from="1684485701509" duration="12245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
