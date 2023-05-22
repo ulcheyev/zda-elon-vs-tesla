@@ -1,0 +1,17 @@
+Pozitivní tweety (positive) mají pozitivní vliv na cenu akcií. Zvýšení počtu pozitivních tweetů je spojeno s růstem ceny akcií.
+Negativní tweety (negative) také ovlivňují cenu akcií, ale jejich účinek je silnější než u pozitivních tweetů.
+Neutrální tweety (neutral) mají určitý pozitivní vliv na cenu akcií, ale jejich příspěvek je relativně nepatrný.
+
+Objem obchodování (Volume):
+Objem obchodování má významný pozitivní vliv na cenu akcií. Zvýšení objemu obchodování je spojeno s růstem ceny akcií.
+
+Zmínky (mentions_c):
+Počet zmínek v tweetech má malý negativní vliv na cenu akcií. Vyšší počet zmínek je spojen s mírným poklesem ceny akcií.
+
+Tweety související s Teslou (tesla_related), s money (money_related) a odkazy na zprávy (url_news):
+
+Tyto faktory ovlivňují cenu akcií, ale míra vlivu se může lišit. Zvýšení počtu tweetů souvisejících s Teslou nebo money 
+a přítomnost odkazů na zprávy může být spojeno s růstem ceny akcií.
+
+Retweety (retweets):
+Počet retweetů má nepatrný pozitivní vliv na cenu akcií. Zvýšení počtu retweetů může být spojeno s mírným zvýšením ceny akcií.

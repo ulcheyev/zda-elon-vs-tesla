@@ -5,46 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="893e5e46-7ea9-40b6-8238-09d65625be6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zda-sem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zda-sem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Tesla Deaths" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/stocks-prepared-to-analyze.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stocks-prepared-to-analyze.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/temp.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tweets-prepared-to-analyze.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets-prepared-to-analyze.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tweets-stocks-merged.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tweets-v1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/tweets-v1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tweetsv2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/final-neco-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/.ipynb_checkpoints/final-neco-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/final_analyze-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stock_analyze-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stock_analyze.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stock_process-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-analyze-final-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-neco-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-neco-final-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/.ipynb_checkpoints/stocks-neco-final-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets-analyze-final-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets-neco-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets-neco-final-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets_analyze-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/tweets_analyze.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/.ipynb_checkpoints/data-explore-final-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/.ipynb_checkpoints/data-explore-final-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script/data-explore-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/data-explore-final.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/final-neco.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/final_analyze.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/final_analyze.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/stocks-analyze-final.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script/stocks-analyze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/stocks-analyze.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/stocks-neco-final.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/stocks-neco.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/stocks_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/stocks_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/tweets-analyze-final.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script/tweets-analyze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/script/tweets-analyze.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/tweets-neco-final.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/tweets-neco.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/tweets_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/tweets_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/script/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684485700212</updated>
       <workItem from="1684485701509" duration="12245000" />
+      <workItem from="1684742587926" duration="12705000" />
     </task>
     <servers />
   </component>
